@@ -1,6 +1,6 @@
 # Awesome Self-Hosted Mirrors
 
-A curated list of open-source tools for hosting and managing local mirrors of popular software repositories. These solutions help reduce external bandwidth usage, speed up installations and updates, and provide offline access for environments without full internet connectivity.
+A list of open-source tools for hosting and managing local mirrors of popular software repositories. These solutions help reduce external bandwidth usage, speed up installations and updates, and provide offline access for environments without full internet connectivity.
 
 ---
 
